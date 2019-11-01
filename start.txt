@@ -1,0 +1,1 @@
+to start, press ctrl + ö and type ls, then node .
